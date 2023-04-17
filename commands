@@ -2,7 +2,7 @@ We must download the volaƟlity framework from internet.
 We also must download memory sample from internet from analysis
 Extract both the folders to desktop and rename for easy access
 Open terminal and change working directory to volatility
-.Use command “./vol -h” to check funcƟoning of volaƟlityframework
+.Use command “./vol -h” to check functioning of volatilityframework
 Used command “./vol -f ~/Desktop/project/cridex.vmem imageinfo” to get full details memory image.
  Used command “./vol -f ~/Desktop/project/cridex.vmem –profile=WinXPSP2x86 pslist” for informaƟon of processes.
  Used command “./vol -f ~/Desktop/project/cridex.vmem –profile=WinXPSP2x86 connections” for connecƟons list
